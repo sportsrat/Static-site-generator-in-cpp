@@ -67,8 +67,8 @@ Clone the repository and build the binary using the provided `Makefile`:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cpp-static-site-generator.git
-cd cpp-static-site-generator
+git clone the repo
+cd Static-site-generator-in-cpp
 
 # Compile the release executable
 make
